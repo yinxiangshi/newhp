@@ -75,5 +75,6 @@
         {{ if templates.Exists "partials/body.html" }}
         {{ partial "body" . }}
         {{ end }}
+        {{ partial "mathjax.html" . }}
     </body>
 </html>

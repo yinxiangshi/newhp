@@ -1,3 +1,6 @@
 baseURL = 'https://www.allonsygamma.com/'
 languageCode = 'en-us'
 title = 'Homepage'
+
+[blackfriday]
+smartypants = false
