@@ -10,7 +10,7 @@ tags = [
 
 # Bloom Filter
 
-![filterPic](pics/2880px-Bloom_filter.svg.png)
+![filterPic](/img/2880px-Bloom_filter.svg.png)
 
 ## 1. Introduction
 
