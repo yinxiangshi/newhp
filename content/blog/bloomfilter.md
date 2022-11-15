@@ -12,8 +12,9 @@ tags = [
 
 
 <div  align="center">    
- <img src="/img/filterPic.png" width = "400" height = "144" alt="filterPic" align=center/>
+ <img src="/img/filterPic.png" width = "600" height = "216" alt="filterPic" align=center/>
 </div>
+
 ## 1. Introduction
 
 Bloom Filter, a great tool used to store immutable data. Bloom Filter doesn't support deleting files but support adding files.
